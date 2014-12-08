@@ -1,7 +1,7 @@
 Framer Snippets
 ===============
 
-A library for Framer Studio snippets.
+A library for [Framer Studio](http://framerjs.com) snippets.
 
 ## Install Instructions
 - Locate Snippets folder for Framer Studio
